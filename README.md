@@ -35,6 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Julia Wurzel  | Section 002      | jkw5638         |  https://jkw5638.github.io/stat184wurzel/    |  
 
 
 <br>
